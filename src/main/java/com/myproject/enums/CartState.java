@@ -1,5 +1,5 @@
 package com.myproject.enums;
 
-public enum CarState {
+public enum CartState {
     CREATED,SOLD
 }
